@@ -125,7 +125,7 @@ def print_help():
     info('X: Calibrate face pose')
     info('I: Show FPS')
     info('ESC: Quit')
-    info('\nFull key list: https://github.com/alievk/avatarify#controls')
+    info('\nFull key list: https://github.com/stevebrainng/avatarify/tree/master/docs#controls')
     info('\n\n')
 
 
